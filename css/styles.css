@@ -1,3 +1,30 @@
+body {
+  background-image:url(https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/comprar-internet-2212797.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+   }
+  
+   div#boton,div#logo,div#email,div#contraseña {
+    margin: 1em ;
+   }
+  
+   div#boton,div#logo,div#email,div#contraseña,div#titulo{
+
+    text-align: center;
+    color: white;
+  
+    }
+
+    input#correo,input#password{
+      width: 45%;
+      margin-left: 28%;
+    }
+    div#logo img{
+      height: 3cm;
+      width: 7cm;
+    }
+
+
 .jumbotron,
 .card-body,
 .container,

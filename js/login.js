@@ -5,7 +5,7 @@ document.getElementById("ingresar").addEventListener("click",function(){
 
     if(email !== "" && contraseña !== "" ) {
         
-        window.location.href = "file:///C:/Users/user/Desktop/workspace-inicial/workspace-inicial/portada.html"
+        window.location.href = "file:///C:/Users/user/Desktop/proyectoobligatorio/proyecto_obligatorio/portada.html"
     } else{
         alert("Debe completar los campos vacios")   
     }
